@@ -1,0 +1,85 @@
+C:\Users\NS-52\source\repos\CRUD.EF\bin\Debug\net6.0\CRUD.EF.deps.json
+C:\Users\NS-52\source\repos\CRUD.EF\bin\Debug\net6.0\CRUD.EF.runtimeconfig.json
+C:\Users\NS-52\source\repos\CRUD.EF\bin\Debug\net6.0\CRUD.EF.dll
+C:\Users\NS-52\source\repos\CRUD.EF\bin\Debug\net6.0\CRUD.EF.pdb
+C:\Users\NS-52\source\repos\CRUD.EF\bin\Debug\net6.0\CRUD.Domain.dll
+C:\Users\NS-52\source\repos\CRUD.EF\bin\Debug\net6.0\CRUD.Domain.pdb
+C:\Users\NS-52\source\repos\CRUD.EF\obj\Debug\net6.0\CRUD.EF.csproj.AssemblyReference.cache
+C:\Users\NS-52\source\repos\CRUD.EF\obj\Debug\net6.0\CRUD.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NS-52\source\repos\CRUD.EF\obj\Debug\net6.0\CRUD.EF.AssemblyInfoInputs.cache
+C:\Users\NS-52\source\repos\CRUD.EF\obj\Debug\net6.0\CRUD.EF.AssemblyInfo.cs
+C:\Users\NS-52\source\repos\CRUD.EF\obj\Debug\net6.0\CRUD.EF.csproj.CoreCompileInputs.cache
+C:\Users\NS-52\source\repos\CRUD.EF\obj\Debug\net6.0\CRUD.EF.csproj.CopyComplete
+C:\Users\NS-52\source\repos\CRUD.EF\obj\Debug\net6.0\CRUD.EF.dll
+C:\Users\NS-52\source\repos\CRUD.EF\obj\Debug\net6.0\refint\CRUD.EF.dll
+C:\Users\NS-52\source\repos\CRUD.EF\obj\Debug\net6.0\CRUD.EF.pdb
+C:\Users\NS-52\source\repos\CRUD.EF\obj\Debug\net6.0\CRUD.EF.genruntimeconfig.cache
+C:\Users\NS-52\source\repos\CRUD.EF\obj\Debug\net6.0\ref\CRUD.EF.dll
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.EF.deps.json
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.EF.runtimeconfig.json
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.EF.dll
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.EF.pdb
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.Domain.dll
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.Domain.pdb
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.csproj.AssemblyReference.cache
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.AssemblyInfoInputs.cache
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.AssemblyInfo.cs
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.csproj.CoreCompileInputs.cache
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.csproj.CopyComplete
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.dll
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\obj\Debug\net6.0\refint\CRUD.EF.dll
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.pdb
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.genruntimeconfig.cache
+C:\Users\NS-52\Desktop\cruddemo\CRUD.EF\obj\Debug\net6.0\ref\CRUD.EF.dll
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.EF.deps.json
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.EF.runtimeconfig.json
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.EF.dll
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.EF.pdb
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.Domain.dll
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.Domain.pdb
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.csproj.AssemblyReference.cache
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.AssemblyInfoInputs.cache
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.AssemblyInfo.cs
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.csproj.CoreCompileInputs.cache
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.csproj.CopyComplete
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.dll
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\refint\CRUD.EF.dll
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.pdb
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.genruntimeconfig.cache
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\ref\CRUD.EF.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.EF.deps.json
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.EF.runtimeconfig.json
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.EF.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.EF.pdb
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.Domain.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\bin\Debug\net6.0\CRUD.Domain.pdb
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.csproj.AssemblyReference.cache
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.AssemblyInfoInputs.cache
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.AssemblyInfo.cs
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.csproj.CoreCompileInputs.cache
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.csproj.CopyComplete
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\refint\CRUD.EF.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.pdb
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\CRUD.EF.genruntimeconfig.cache
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.EF\obj\Debug\net6.0\ref\CRUD.EF.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\bin\Debug\net6.0\CRUD.EF.deps.json
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\bin\Debug\net6.0\CRUD.EF.runtimeconfig.json
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\bin\Debug\net6.0\CRUD.EF.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\bin\Debug\net6.0\CRUD.EF.pdb
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\bin\Debug\net6.0\CRUD.Domain.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\bin\Debug\net6.0\CRUD.Domain.pdb
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\obj\Debug\net6.0\CRUD.EF.csproj.AssemblyReference.cache
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\obj\Debug\net6.0\CRUD.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\obj\Debug\net6.0\CRUD.EF.AssemblyInfoInputs.cache
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\obj\Debug\net6.0\CRUD.EF.AssemblyInfo.cs
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\obj\Debug\net6.0\CRUD.EF.csproj.CoreCompileInputs.cache
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\obj\Debug\net6.0\CRUD.EF.csproj.CopyComplete
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\obj\Debug\net6.0\CRUD.EF.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\obj\Debug\net6.0\refint\CRUD.EF.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\obj\Debug\net6.0\CRUD.EF.pdb
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\obj\Debug\net6.0\CRUD.EF.genruntimeconfig.cache
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.EF\obj\Debug\net6.0\ref\CRUD.EF.dll
