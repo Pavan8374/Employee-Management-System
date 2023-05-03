@@ -1,0 +1,60 @@
+C:\Users\NS-52\source\repos\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.deps.json
+C:\Users\NS-52\source\repos\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.dll
+C:\Users\NS-52\source\repos\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.pdb
+C:\Users\NS-52\source\repos\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.csproj.AssemblyReference.cache
+C:\Users\NS-52\source\repos\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NS-52\source\repos\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.AssemblyInfoInputs.cache
+C:\Users\NS-52\source\repos\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.AssemblyInfo.cs
+C:\Users\NS-52\source\repos\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NS-52\source\repos\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.dll
+C:\Users\NS-52\source\repos\CRUD.Domain\obj\Debug\net6.0\refint\CRUD.Domain.dll
+C:\Users\NS-52\source\repos\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.pdb
+C:\Users\NS-52\source\repos\CRUD.Domain\obj\Debug\net6.0\ref\CRUD.Domain.dll
+C:\Users\NS-52\Desktop\cruddemo\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.deps.json
+C:\Users\NS-52\Desktop\cruddemo\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.dll
+C:\Users\NS-52\Desktop\cruddemo\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.pdb
+C:\Users\NS-52\Desktop\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.csproj.AssemblyReference.cache
+C:\Users\NS-52\Desktop\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NS-52\Desktop\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.AssemblyInfoInputs.cache
+C:\Users\NS-52\Desktop\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.AssemblyInfo.cs
+C:\Users\NS-52\Desktop\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NS-52\Desktop\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.dll
+C:\Users\NS-52\Desktop\cruddemo\CRUD.Domain\obj\Debug\net6.0\refint\CRUD.Domain.dll
+C:\Users\NS-52\Desktop\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.pdb
+C:\Users\NS-52\Desktop\cruddemo\CRUD.Domain\obj\Debug\net6.0\ref\CRUD.Domain.dll
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.deps.json
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.dll
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.pdb
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.csproj.AssemblyReference.cache
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.AssemblyInfoInputs.cache
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.AssemblyInfo.cs
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.dll
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\refint\CRUD.Domain.dll
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.pdb
+C:\Users\NS-52\Downloads\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\ref\CRUD.Domain.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.deps.json
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.pdb
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.csproj.AssemblyReference.cache
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.AssemblyInfoInputs.cache
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.AssemblyInfo.cs
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\refint\CRUD.Domain.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.pdb
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\cruddemo\CRUD.Domain\obj\Debug\net6.0\ref\CRUD.Domain.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.deps.json
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.Domain\bin\Debug\net6.0\CRUD.Domain.pdb
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.csproj.AssemblyReference.cache
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.AssemblyInfoInputs.cache
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.AssemblyInfo.cs
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.Domain\obj\Debug\net6.0\refint\CRUD.Domain.dll
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.Domain\obj\Debug\net6.0\CRUD.Domain.pdb
+C:\Users\NS-52\Downloads\final working demo project\FINAL CRUD DB BACKUP\Ecom\CRUD.Domain\obj\Debug\net6.0\ref\CRUD.Domain.dll
